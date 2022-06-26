@@ -22,9 +22,9 @@
   <hr/>
   <h3>Nossos contatos e rede sociais</h3>
   <div> 
-  <a href="https://www.instagram.com/eurodrigohs007" target="_blank"><img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="35px" height="30" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="35px" height="30" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-henrique-608b63a0/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35px" height="30" target="_blank"></a> 
+  <a href="https://www.instagram.com/eurodrigohs007" target="_blank"><img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="35px" target="_blank"></a>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="35px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-henrique-608b63a0/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35px" target="_blank"></a> 
 
  
 </div>
